@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a2adbd;
+}
+h1{
+    color: rgb(0, 0, 0) ;  
+    text-align: center;
+    font-size: 80;
+    color: rgb(204, 192, 193);
+    background-color: #000000; 
+    
+}
+b{
+    color: rgb(0, 0, 0);
+    font-size: larger ;
+}
+.comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.comparison-table th, .comparison-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+.comparison-table th {
+    background-color: #7de280;
+    color: white;
+}
+.comparison-table tr:nth-child(even) {
+    background-color: #7298a7;
+}
+pre {
+font-size: 70;
+color: rgb(204, 192, 193);
+background-color: rgb(101, 101, 110); 
+font-size: 30;   
+}
+.more-info {
+    text-align: center;
+    font-size: 70;
+    color: rgb(204, 192, 193);
+    background-color: #a2adbd; 
+    font-size: 30;
+}
